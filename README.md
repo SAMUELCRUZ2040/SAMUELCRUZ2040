@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samel</h1>
+<h1 align="center">Hi, I'm Samel</h1>
 <h3 align="center">I am a passionate software developer with experience in Front End and Back End, focused on offering effective and attractive solutions to users.</h3>
 
 - 🌱 I’m currently learning **Node.js**
