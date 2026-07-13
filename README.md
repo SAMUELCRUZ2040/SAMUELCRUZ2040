@@ -1,75 +1,102 @@
-# 👨‍💻 Hi, I'm Samuel
+<div align="center">
 
-**Software Developer | Full-Stack Web Development**
+<img src="banner.png" alt="Samuel Ñañez Cruz — Software Developer" width="100%" />
 
-I build modern, scalable web applications with a focus on clean code, performance, and great user experience. I work across the full stack — from responsive, SEO-optimized interfaces to REST APIs, relational databases, and production deployment.
+<br><br>
 
-Currently pursuing a **Software Engineering degree** while building real-world projects for clients in Colombia and Spain.
+**`Software Developer`**
+
+Building full-stack web applications — from architecture and databases to clean, performant interfaces.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelnanezcruz/)
+[![Gmail](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:samuelcruz2040@gmail.com)
+![Location](https://img.shields.io/badge/Bogotá,_Colombia-0A0A0A?style=flat-square&logo=googlemaps&logoColor=white)
+
+</div>
+
+<br>
 
 ---
 
-### 🚀 What I do
+<br>
 
-- **Frontend:** Modern, responsive interfaces with React, Next.js and TypeScript — focused on performance, accessibility and SEO
-- **Backend:** REST APIs with NestJS and Node.js, relational database design, authentication and data validation
-- **DevOps:** Docker, CI/CD pipelines and cloud deployment (Vercel, Railway)
+### About
 
----
+Software Developer specialized in **React, Next.js and TypeScript**, with backend experience in **NestJS, Node.js and REST APIs**, relational database design (**PostgreSQL, MySQL**) and cloud infrastructure (**Docker, CI/CD**).
 
-### 🛠️ Tech Stack
+Focused on clean code, SOLID principles, performance and SEO. Currently pursuing a **Software Engineering degree** while deepening my skills in backend architecture and DevOps.
+
+<br>
+
+### Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Frontend**
+```
+Next.js · React · TypeScript
+JavaScript · Tailwind CSS
+HTML5 · CSS3 · SASS
+```
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+**Backend**
+```
+NestJS · Node.js · REST APIs
+Prisma · Laravel · PHP
+```
 
-**Backend & Databases**
+</td>
+<td valign="top" width="50%">
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Databases**
+```
+PostgreSQL · MySQL · SQL
+Supabase · MongoDB
+```
 
-**Tools**
+**Infra & Tools**
+```
+Docker · Git · GitHub
+Vercel · Railway · CI/CD
+```
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</td>
+</tr>
+</table>
+
+<br>
+
+### What I work with
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nestjs,nodejs,postgres,prisma,supabase,docker,git,github,vercel&theme=dark" />
+</p>
+
+<br>
+
+### Currently
+
+```
+◆  Software Engineering student — Politécnico Grancolombiano
+◆  Deepening backend architecture, system design & cloud infrastructure
+◆  Working with Scrum & Agile methodologies
+◆  English — B1 → B2
+◆  Open to Software Developer opportunities
+```
+
+<br>
 
 ---
 
-### 💼 Featured Projects
+<br>
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| **Nubenix** | Corporate platform for an IT & cloud computing company. Responsive UI, SSR/SSG for SEO, server-side form handling with transactional emails. | Next.js · TypeScript · Tailwind · Node.js | [🔗 Visit](https://www.nubenix.com/) |
-| **Cyber Safe** | Website for a cybersecurity services company. Built with SOLID principles, reusable components, CI/CD deployment. | Next.js · React · Tailwind · Node.js | [🔗 Visit](https://cyber-safe-tc.vercel.app/) |
-| **Gen Leads** | High-conversion B2B landing pages for lead generation (client in Spain). Performance & SEO optimized. | Next.js · React · JavaScript | [🔗 Visit](https://genleads.es/) |
+<div align="center">
 
----
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SAMUELCRUZ2040&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=8B949E&title_color=E6EDF3&text_color=8B949E" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELCRUZ2040&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" />
 
-### 📈 Currently
-
-- 🎓 Studying **Software Engineering** (Politécnico Grancolombiano)
-- 🌱 Deepening my skills in **NestJS**, **system architecture** and **cloud infrastructure**
-- 🌍 Improving my English (B1 → B2)
-- 💼 **Open to Software Developer opportunities**
-
----
-
-### 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelnanezcruz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelcruz2040@gmail.com)
-
----
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMUELCRUZ2040&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELCRUZ2040&layout=compact&theme=tokyonight&hide_border=true)
+</div>
