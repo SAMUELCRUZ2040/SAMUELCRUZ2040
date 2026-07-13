@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Samuel Ñañez Cruz — Software Developer" width="100%" />
+<img src="https://img.magnific.com/foto-gratis/collage-concepto-saas_23-2149399288.jpg?t=st=1783908989~exp=1783912589~hmac=e51121ce63b32872f19e3d8e335feee1462f3a0786546cb433be306b87ea549a&w=1060" alt="Samuel Ñañez Cruz — Software Developer" width="100%" />
 
 <div align="center">
 
