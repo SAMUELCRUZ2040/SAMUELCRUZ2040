@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.magnific.com/foto-gratis/laptop-pantalla-brillante-mesa-espacio-copia-vista-superior-oscura_169016-51607.jpg?t=st=1783908731~exp=1783912331~hmac=3e6e47da324efcba2380e70a0e994a4476bcbd97977f275340a00c64febf7305&w=1060" alt="Samuel Ñañez Cruz — Software Developer" width="100%" />
+<img src="https://img.magnific.com/foto-gratis/collage-concepto-saas_23-2149399288.jpg?t=st=1783908989~exp=1783912589~hmac=e51121ce63b32872f19e3d8e335feee1462f3a0786546cb433be306b87ea549a&w=1060" alt="Samuel Ñañez Cruz — Software Developer" width="100%" />
 
 <br><br>
 
